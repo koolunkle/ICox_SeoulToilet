@@ -37,6 +37,8 @@ dependencies {
     implementation 'com.google.android.gms:play-services-maps:17.0.0'
     // Google Maps Clusters 사용을 위한 라이브러리
     implementation 'com.google.maps.android:android-maps-utils:0.5'
+    // Google Maps Card Search Bar 사용을 위한 라이브러리
+    implementation("androidx.cardview:cardview:1.0.0")
 
     implementation 'androidx.core:core-ktx:1.7.0'
     implementation 'androidx.appcompat:appcompat:1.4.1'
